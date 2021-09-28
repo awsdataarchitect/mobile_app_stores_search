@@ -1,6 +1,6 @@
 # Mobile App Stores Search
 
-Using Mobile App Stores Search library you can find all Android & iOS apps that match a given text query and Access data from Apple Store and Google Play Store via API.
+Using this plugin you can find all Android & iOS apps that match a given text query and Access data from Apple Store and Google Play Store via API.
 
 --------------------------------------------------------------------------
 Note: This plugin required apikey & uuid for the search api.
@@ -14,23 +14,23 @@ You can get both apiKey and uuid for free, here : http://www.waltsoft-inc.com/
 * [Check the demo application](#check-the-demo-application)
 * [Useful links](#useful-links)
 * [Installation](#installation)
-* [Example](#example)
+* [Example](#mobile-app-stores-search-example)
 * [Support and Feedback](#support-and-feedback)
 * [About](#support-and-feedback)
 
 ## Search Features
 
-* **Android & iOS** - Get all apps that match the query form google and apple store.
+* **Android & iOS** - Get all apps that match a given text query form google and apple store.
 
- Get App List Form Google Play Store  | Get App List Form Apple Store 
+ Google Play Store  | Apple Store 
  -------------------------------| ------------------------------ 
- ![style1](screenshot_demo/android_search_demo.gif) | ![style10](screenshot_demo/apple_search_demo.gif)  
+ ![style1](screenshot_demo/google_store_search.gif) | ![style10](screenshot_demo/apple_store_search.gif)  
  
-* **Search & Apps Data** - You can search app name, developer/seller name and you will get all the app Intelligence data you need for boths store according to the query.
+* **Search & Apps Data** - You can search app name, developer/seller name and you will get all the app Intelligence data you need for both store.
 
  Search type  | Intelligence Data
  -------------|------------------ 
- ![style1](screenshot_demo/seller_search_demo.gif) | ![style10](screenshot_demo/appdetail_demo.gif)  
+ ![style1](screenshot_demo/seller_or_developer_search.gif) | ![style10](screenshot_demo/app_details.gif)  
  
 
 ## Check the demo application
@@ -38,24 +38,24 @@ You can get both apiKey and uuid for free, here : http://www.waltsoft-inc.com/
 Explore the full capabilities of our Flutter widgets on your device by installing our sample browser applications from the below app stores, and view samples code in GitHub.
 
 
-  <a href="https://play.google.com/store/apps/details?id=com.syncfusion.flutter.examples"><img src="https://cdn.syncfusion.com/content/images/FTControl/google-play-store.png"/></a>
-  <a href="https://apps.apple.com/us/app/syncfusion-flutter-ui-widgets/id1475231341"><img src="https://cdn.syncfusion.com/content/images/FTControl/ios-store.png"/></a>
+  <a href="https://github.com/awsdataarchitect/mobile_app_stores_search"><img src="https://firebasestorage.googleapis.com/v0/b/notifications-tracker.appspot.com/o/google_play_demo.png?alt=media&token=f9400974-5334-4381-981e-b4616cb7e56d"/></a>
+  <a href="https://github.com/awsdataarchitect/mobile_app_stores_search"><img src="https://firebasestorage.googleapis.com/v0/b/notifications-tracker.appspot.com/o/ios_demo.png?alt=media&token=1916b62e-caec-4ba8-8e4e-321b555f0ed2"/></a>
   
-  <a href="https://flutter.syncfusion.com"><img src="https://cdn.syncfusion.com/content/images/FTControl/web-sample-browser.png"/></a> 
-  <a href="https://github.com/syncfusion/flutter-examples"><img src="https://cdn.syncfusion.com/content/images/FTControl/github-samples.png"/></a>
+  <a href="https://github.com/awsdataarchitect/mobile_app_stores_search"><img src="https://firebasestorage.googleapis.com/v0/b/notifications-tracker.appspot.com/o/web_demo.png?alt=media&token=60d49e0a-0ec3-41a1-abab-3413ee1e00c7"/></a> 
+  <a href="https://github.com/awsdataarchitect/mobile_app_stores_search"><img src="https://firebasestorage.googleapis.com/v0/b/notifications-tracker.appspot.com/o/github.png?alt=media&token=60a69a19-0266-41d5-a8ab-1755b2a92139"/></a>
 
 
 ## Useful links
 Take a look at the following to learn more about Mobile App Stores Search Flutter widget:
 
-* [User guide documentation](https://help.syncfusion.com/flutter/introduction/overview)
-* [Official Website](https://www.syncfusion.com/flutter-widgets)
-* [API reference](https://help.syncfusion.com/flutter/introduction/api-reference)
+* [User guide documentation](https://github.com/awsdataarchitect/mobile_app_stores_search/blob/main/example/lib/main.dart)
+* [Official Website](https://github.com/awsdataarchitect/mobile_app_stores_search/blob/main/example/lib/main.dart)
+* [API reference](https://github.com/awsdataarchitect/mobile_app_stores_search/blob/main/example/lib/main.dart)
 
 ## Installation
  📂 **`pubspec.yaml`**:
 
-**Note:** Install the latest version from [Pub](https://pub.dartlang.org/packages/flutter_background_geolocation/#-versions-tab-).
+**Note:** Install the latest version from [Pub](https://pub.dev/).
 
 ```yaml
 dependencies:
@@ -100,8 +100,8 @@ var json = await mobileAppStoresSearch.searchAppInStoreResponseJson(
 
 ```
 
-Check an example app [Full Example](https://gist.github.com/christocracy/a0464846de8a9c27c7e9de5616082878)
+Check an example app [Full Example](https://github.com/awsdataarchitect/mobile_app_stores_search/blob/main/example/lib/main.dart)
 ## Support and feedback
 
-* For any other queries, reach our [Website Name](https://www.syncfusion.com/support/directtrac/incidents/newincident).
+* For any other queries, reach our [Website](http://www.waltsoft-inc.com/).
 
