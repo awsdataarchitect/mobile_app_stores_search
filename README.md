@@ -18,7 +18,7 @@ You can get both apiKey and uuid for free, here : http://www.waltsoft-inc.com/
 * [Support and Feedback](#support-and-feedback)
 * [About](#support-and-feedback)
 
-## Search Features
+## Search Featuresgit init
 
 * **Android & iOS** - Find All different Paid/Free all different kinds of app form any stores.
 
