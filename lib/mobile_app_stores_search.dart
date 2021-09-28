@@ -20,7 +20,7 @@ class MobileAppStoresSearch {
     required this.uuid,
   });
 
-  /// Returns list of apps in JSON Map\<key, value> format, according to the search query & store you selected.
+  /// Returns JSON list of apps, according to the search query & store you selected.
   ///
   /// - when no app is found, the null is returned.
   ///
@@ -28,9 +28,8 @@ class MobileAppStoresSearch {
   ///  - pass app name, seller/developer name to this parameter.
   ///
   /// [searchInAppleStore]
-  ///  - pass true if you want to search in Apple Store.
-  ///  - pass false if you want to search in Google Play Store.
-  ///  - by default is set to true
+  ///  - pass true if you want to search in Apple Store and false for Google Play Store.
+  ///  - by default is set to true(Apple Store)
   Future<dynamic> searchAppInStoreResponseJson(
       {required String searchQuery, bool searchInAppleStore = true}) async {
     if (searchQuery.isNotEmpty) {

@@ -36,7 +36,7 @@ class _MyHomePageState extends State<MyHomePage> {
   late MobileAppStoresSearch mobileAppStoresSearch;
   //other fields
   String query = 'youtube';
-  // true if you want to search on apple store and false for google store
+  // true if you want to search on apple store and false for google play store
   bool searchInAppleStore = false;
   late List<AppDetail> searchedAppList = [];
   late TextEditingController _textEditingController;
@@ -217,8 +217,11 @@ class _MyHomePageState extends State<MyHomePage> {
                           children: [
                             const Text('App Id',
                                 style: TextStyle(fontSize: 16)),
-                            Text(appDetail.appId,
-                                style: const TextStyle(fontSize: 16)),
+                            const SizedBox(width: 20),
+                            Flexible(
+                              child: Text(appDetail.appId + appDetail.appId,
+                                  style: const TextStyle(fontSize: 16)),
+                            ),
                           ]),
                       const Divider(),
                       Row(

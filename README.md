@@ -18,11 +18,20 @@ You can get both apiKey and uuid for free, here : http://www.waltsoft-inc.com/
 * [Support and Feedback](#support-and-feedback)
 * [About](#support-and-feedback)
 
-## Search Featuresgit init
+## Search Features
 
-* **Android & iOS** - Find All different Paid/Free all different kinds of app form any stores.
+* **Android & iOS** - Get all apps that match the query form google and apple store.
 
-* **Apps Data** - Get all the app data you need for boths store according to the query.
+ Get App List Form Google Play Store  | Get App List Form Apple Store 
+ -------------------------------| ------------------------------ 
+ ![style1](screenshot_demo/android_search_demo.gif) | ![style10](screenshot_demo/apple_search_demo.gif)  
+ 
+* **Search & Apps Data** - You can search app name, developer/seller name and you will get all the app Intelligence data you need for boths store according to the query.
+
+ Search type  | Intelligence Data
+ -------------|------------------ 
+ ![style1](screenshot_demo/seller_search_demo.gif) | ![style10](screenshot_demo/appdetail_demo.gif)  
+ 
 
 ## Check the demo application
 
