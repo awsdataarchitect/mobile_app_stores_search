@@ -103,9 +103,9 @@ var json = await mobileAppStoresSearch.searchAppInStoreResponseJson(
 Check an example app [Full Example](https://github.com/awsdataarchitect/mobile_app_stores_search/blob/main/example/lib/main.dart)
 ## Support and feedback
 
-* For any other queries, reach our [Website](https://waltsoft.net).
+* For any other queries, reach our [waltsoft.net](https://waltsoft.net).
 
 ## About
 
-* Waltsoft Inc is a Qualified AWS Technology Partner to help customers of all sizes and build cost-saving AWS environments. Contact us: info (at) (waltsoft.net)[https://waltsoft.net]
+* Waltsoft Inc is a Qualified AWS Technology Partner to help customers of all sizes and build cost-saving AWS environments. Contact us: info (at) [waltsoft.net](https://waltsoft.net)
 
