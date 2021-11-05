@@ -5,7 +5,7 @@ Using this plugin you can find all Android & iOS apps that match a given text qu
 --------------------------------------------------------------------------
 Note: This plugin required apikey & uuid for the search api.
 
-You can get both apiKey and uuid for free, here : http://www.waltsoft-inc.com/
+You can get both apiKey and uuid for free, here : https://waltsoft.net
 
 ----------------------------------------------------------------------------
 
