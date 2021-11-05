@@ -5,7 +5,7 @@ Using this plugin, you can find all Android & iOS apps that match a given text q
 --------------------------------------------------------------------------
 Note: This plugin requires an API key and UUID for the search API.
 
-You can get both API Key and UUID for free, here : [Website](https://waltsoft.net/mobile_store_search_api)
+You can get both API Key and UUID for free, here : [waltsoft.net](https://waltsoft.net/mobile_store_search_api)
 
 ----------------------------------------------------------------------------
 
@@ -104,4 +104,8 @@ Check an example app [Full Example](https://github.com/awsdataarchitect/mobile_a
 ## Support and feedback
 
 * For any other queries, reach our [Website](https://waltsoft.net).
+
+## About
+
+* Waltsoft Inc is a Qualified AWS Technology Partner to help customers of all sizes and build cost-saving AWS environments. Contact us: info (at) (waltsoft.net)[https://waltsoft.net]
 
