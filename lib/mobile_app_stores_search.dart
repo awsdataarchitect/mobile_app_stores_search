@@ -12,7 +12,7 @@ class MobileAppStoresSearch {
 
   /// Set up Mobile App Store Search with your API key and a unique user id.
   ///
-  /// You can get both [apiKey] and [uuid] for free, here : [Website](https://waltsoft.net/mobile_store_search_api)
+  /// You can get both [apiKey] and [uuid] for free, here : [waltsoft.net](https://waltsoft.net/mobile_store_search_api)
   ///
   /// Both [apiKey] and [uuid] are required.
   MobileAppStoresSearch({
