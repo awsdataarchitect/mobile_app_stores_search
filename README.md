@@ -1,11 +1,11 @@
 # Mobile App Stores Search
 
-Using this plugin you can find all Android & iOS apps that match a given text query and Access data from Apple Store and Google Play Store via API.
+Using this plugin, you can find all Android & iOS apps that match a given text query and Access data from Apple Store and Google Play Store via API.
 
 --------------------------------------------------------------------------
-Note: This plugin required apikey & uuid for the search api.
+Note: This plugin requires an API key and UUID for the search API.
 
-You can get both apiKey and uuid for free, here : [Website](https://waltsoft.net/mobile_store_search_api)
+You can get both API Key and UUID for free, here : [Website](https://waltsoft.net/mobile_store_search_api)
 
 ----------------------------------------------------------------------------
 
@@ -75,7 +75,7 @@ import 'package:mobile_app_stores_search/mobile_app_stores_search.dart';
 ```dart
 
   //-----> change it to your apikey and uuid,
-  //You can get both [apiKey] and [uuid] for free, [here](https://waltsoft.net/mobile_store_search_api) <-----//
+  //You can get both [apiKey] and [uuid] for free, here : https://waltsoft.net/mobile_store_search_api <-----//
   String apiKey = 'MzCPrAGBoYai9FOj6iGCP61Q6SekVGLV1P6Jfjwh';
   String uuid = 'vRmIU18pFljK3ecnG13v';
   late MobileAppStoresSearch mobileAppStoresSearch;
