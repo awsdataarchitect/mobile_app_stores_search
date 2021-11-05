@@ -41,16 +41,16 @@ Explore the full capabilities of our Flutter widgets on your device by installin
   <a href="https://github.com/awsdataarchitect/mobile_app_stores_search"><img src="https://firebasestorage.googleapis.com/v0/b/notifications-tracker.appspot.com/o/google_play_demo.png?alt=media&token=f9400974-5334-4381-981e-b4616cb7e56d"/></a>
   <a href="https://github.com/awsdataarchitect/mobile_app_stores_search"><img src="https://firebasestorage.googleapis.com/v0/b/notifications-tracker.appspot.com/o/ios_demo.png?alt=media&token=1916b62e-caec-4ba8-8e4e-321b555f0ed2"/></a>
   
-  <a href="https://github.com/awsdataarchitect/mobile_app_stores_search"><img src="https://firebasestorage.googleapis.com/v0/b/notifications-tracker.appspot.com/o/web_demo.png?alt=media&token=60d49e0a-0ec3-41a1-abab-3413ee1e00c7"/></a> 
+  <a href="https://waltsoft.net/mobile_store_search_api/api_demo"><img src="https://firebasestorage.googleapis.com/v0/b/notifications-tracker.appspot.com/o/web_demo.png?alt=media&token=60d49e0a-0ec3-41a1-abab-3413ee1e00c7"/></a> 
   <a href="https://github.com/awsdataarchitect/mobile_app_stores_search"><img src="https://firebasestorage.googleapis.com/v0/b/notifications-tracker.appspot.com/o/github.png?alt=media&token=60a69a19-0266-41d5-a8ab-1755b2a92139"/></a>
 
 
 ## Useful links
 Take a look at the following to learn more about Mobile App Stores Search Flutter widget:
 
-* [User guide documentation](https://github.com/awsdataarchitect/mobile_app_stores_search/blob/main/example/lib/main.dart)
-* [Official Website](https://github.com/awsdataarchitect/mobile_app_stores_search/blob/main/example/lib/main.dart)
-* [API reference](https://github.com/awsdataarchitect/mobile_app_stores_search/blob/main/example/lib/main.dart)
+* [User guide documentation](https://waltsoft.net/mobile_store_search_api/api_doc)
+* [Official Website](https://waltsoft.net/)
+* [API reference](https://waltsoft.net/mobile_store_search_api/api_doc)
 
 ## Installation
  📂 **`pubspec.yaml`**:
@@ -103,5 +103,5 @@ var json = await mobileAppStoresSearch.searchAppInStoreResponseJson(
 Check an example app [Full Example](https://github.com/awsdataarchitect/mobile_app_stores_search/blob/main/example/lib/main.dart)
 ## Support and feedback
 
-* For any other queries, reach our [Website](http://www.waltsoft-inc.com/).
+* For any other queries, reach our [Website](https://waltsoft.net).
 
