@@ -20,7 +20,7 @@ You can get both apiKey and uuid for free, here : [Website](https://waltsoft.net
 
 ## Search Features
 
-* **Android & iOS** - Get all apps that match a given text query form google and apple store.
+* **Android & iOS** - Get all apps that match a given text query from google and apple store.
 
  Google Play Store  | Apple Store 
  -------------------------------| ------------------------------ 
