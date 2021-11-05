@@ -31,11 +31,11 @@ class MyHomePage extends StatefulWidget {
 class _MyHomePageState extends State<MyHomePage> {
   //-----> change this to your apikey and uuid,
   //You can get both [apiKey] and [uuid] for free, here : http://www.waltsoft-inc.com/ <-----//
-  String apiKey = 'MzCPrAGBoYai9FOj6iGCP61Q6SekVGLV1P6Jfjwh';
-  String uuid = 'vRmIU18pFljK3ecnG13v';
+  String apiKey = 'Your_Api_Key';
+  String uuid = 'Your_UUID';
   late MobileAppStoresSearch mobileAppStoresSearch;
   //other fields
-  String query = 'youtube';
+  String query = '';
   // true if you want to search on apple store and false for google play store
   bool searchInAppleStore = false;
   late List<AppDetail> searchedAppList = [];
@@ -130,6 +130,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 ],
               ),
               const Text('Search Result', style: TextStyle(fontSize: 20)),
+              Divider(),
               Expanded(
                 child: ListView.builder(
                     itemCount: searchedAppList.length,
