@@ -10,9 +10,9 @@ class MobileAppStoresSearch {
   final String uuid;
   final String apiUrl = "https://api.waltsoft.net/app-store-info";
 
-  /// Sets up Mobile App Store Search with your API key and an unique user id.
+  /// Set up Mobile App Store Search with your API key and a unique user id.
   ///
-  /// You can get both [apiKey] and [uuid] for free, here : http://www.waltsoft-inc.com/
+  /// You can get both [apiKey] and [uuid] for free, here : [Website](https://waltsoft.net/mobile_store_search_api)
   ///
   /// Both [apiKey] and [uuid] are required.
   MobileAppStoresSearch({
@@ -25,7 +25,7 @@ class MobileAppStoresSearch {
   /// - when no app is found, the null is returned.
   ///
   /// [searchQuery]
-  ///  - pass app name, seller/developer name to this parameter.
+  ///  - pass app name, developer/publisher name to this parameter.
   ///
   /// [searchInAppleStore]
   ///  - pass true if you want to search in Apple Store and false for Google Play Store.
