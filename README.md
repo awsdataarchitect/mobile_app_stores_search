@@ -114,5 +114,5 @@ Check an example app [Full Example](https://github.com/awsdataarchitect/mobile_a
 
 ## About
 
-* Waltsoft Inc is a Qualified AWS Technology Partner to help customers of all sizes and build cost-saving AWS environments. Contact us: info (at) [waltsoft.net](https://waltsoft.net)
+* Waltsoft is an AWS Technology Partner based in Toronto, Canada and focussed in Data Migration, Cloud ETL, DevOps, MLOps, Big Data, Analytics. Contact us: info (at) [waltsoft.net](https://waltsoft.net)
 
