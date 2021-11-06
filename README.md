@@ -89,9 +89,7 @@ import 'package:mobile_app_stores_search/mobile_app_stores_search.dart';
   }
 ```
 #### 3. After initializing the package, call the **searchAppInStoreResponseJson** method and
-* pass query and the app store type in the parameter.
-* it will return a json list of app that match with the query.
-* if no match found then it will return null.
+
 ```dart
 
 var json = await mobileAppStoresSearch.searchAppInStoreResponseJson(
@@ -99,6 +97,15 @@ var json = await mobileAppStoresSearch.searchAppInStoreResponseJson(
         searchInAppleStore: true);
 
 ```
+Returns JSON list of apps, according to the search query & store you selected.
+  
+  **searchQuery**
+  - when no app is found, the null is returned.
+   
+  **searchInAppleStore**
+  - pass app name, developer/publisher name to this parameter.
+  - pass true if you want to search in Apple Store and false for Google Play Store.
+  - by default is set to true(Apple Store)
 
 Check an example app [Full Example](https://github.com/awsdataarchitect/mobile_app_stores_search/blob/main/example/lib/main.dart)
 ## Support and feedback
