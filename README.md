@@ -2,6 +2,8 @@
 
 Using this plugin, you can find all Android & iOS apps that match a given text query and Access data from Apple Store and Google Play Store via API.
 
+Check live demo [here.](https://waltsoft.net/mobile_store_search_api/api_demo)
+
 --------------------------------------------------------------------------
 Note: This plugin requires an API key and UUID for the search API.
 
