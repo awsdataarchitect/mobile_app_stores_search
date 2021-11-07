@@ -24,13 +24,13 @@ You can get both API Key and UUID for free, here : [waltsoft.net](https://waltso
 
  Google Play Store  | Apple Store 
  -------------------------------| ------------------------------ 
- ![style1](screenshot_demo/google_store_search.gif) | ![style10](screenshot_demo/apple_store_search.gif)  
+ ![style1](https://raw.githubusercontent.com/awsdataarchitect/mobile_app_stores_search/main/screenshot_demo/google_store_search.gif) | ![style10](https://raw.githubusercontent.com/awsdataarchitect/mobile_app_stores_search/main/screenshot_demo/apple_store_search.gif)  
  
 * **Search & Apps Data** - You can search by app name, developer/publisher name, and you will get all the app Intelligence data you need for both store.
 
  Search type  | Intelligence Data
  -------------|------------------ 
- ![style1](screenshot_demo/seller_or_developer_search.gif) | ![style10](screenshot_demo/app_details.gif)  
+ ![style1](https://raw.githubusercontent.com/awsdataarchitect/mobile_app_stores_search/main/screenshot_demo/seller_or_developer_search.gif) | ![style10](https://raw.githubusercontent.com/awsdataarchitect/mobile_app_stores_search/main/screenshot_demo/app_details.gif)  
  
 
 ## Check the demo application
@@ -76,8 +76,8 @@ import 'package:mobile_app_stores_search/mobile_app_stores_search.dart';
 
   //-----> change it to your apikey and uuid,
   //You can get both [apiKey] and [uuid] for free, here : https://waltsoft.net/mobile_store_search_api <-----//
-  String apiKey = 'MzCPrAGBoYai9FOj6iGCP61Q6SekVGLV1P6Jfjwh';
-  String uuid = 'vRmIU18pFljK3ecnG13v';
+  String apiKey = 'Your_Api_Key';
+  String uuid = 'Your_UUID';
   late MobileAppStoresSearch mobileAppStoresSearch;
   String query = 'youtube';
 
